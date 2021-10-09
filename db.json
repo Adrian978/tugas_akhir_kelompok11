@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Toyota Harrier (2007)",
+      "price": "Rp. 159.000.000",
+      "description": "Kondisi mulus, tidak pernah di cat ulang, pemilik sebelumnya 2, tidak dalam status leasing semua fungsi mobil berjalan dengan baik",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/gtl1dg56tgmc1-ID/image;s=780x0;q=60"
+    },
+    {
+      "id": 2,
+      "name": "Nissan Grand Livina (2015)",
+      "price": "Rp 100.000.000",
+      "description": "Di jual Mobil Kesayangan Nissan Grand Livina matic tahun 2015, kondisi sangat terawat, kaki2 mantap, mesin siip, pajak panjang bangat. Nego tipis saja boss",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/8f7dyouavv9s2-ID/image;s=780x0;q=60"
+    },
+    {
+      "id": 3,
+      "name": "Toyota Rush (2019)",
+      "price": "Rp 228.000.000",
+      "description": "STNK dan BPKB atas nama perorangan, pajak april 2022, plat ganjil, warna putih, interior original pabrik model, fungsi lainnya berfungsi dengan baik.",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/15e0s99pbbtk3-ID/image;s=780x0;q=60"
+    },
+    {
+      "id": 4,
+      "name": "Toyota Voxy (2018)",
+      "price": "Rp 385.000.000",
+      "description": "kilometer 25 ribu, buku panduan lengkap, kunci serep ada, kondisi mulu, service rutin, pajak sampai 2022, cat masih orisinil dan interior masih seperti baru.",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/6fqxmwxjytfn1-ID/image;s=780x0;q=60"
+    },
+    {
+      "id": 5,
+      "name": "Honda Cr-Z (2014)",
+      "price": "Rp 328.000.000",
+      "description": "konidisi orisinil bawaan pabrik, pajak bulan 11 2021, cat masih orisinil, buku panduan lengkap, ban serep masih ada, full mugen body kit.",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/eufou3ep1dwo1-ID/image;s=780x0;q=60"
+    },
+    {
+      "id": 6,
+      "name": "Daihatsu Sirion (2014)",
+      "price": "Rp 84.000.000",
+      "description": "warna putih, interior full orisinil, mesin sehat, kaki-kaki empuk, pajak panjang, surat-surat komplit, siap pakai dan bergaransi 1 tahun mesin dan transmisi.",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/d8kqzd5nr43o-ID/image;s=780x0;q=60"
+    },
+    {
+      "id": 7,
+      "name": "Honda Jazz (2011)",
+      "price": "Rp 109.000.000",
+      "description": "plat B, pajak hidup, warna hitam, cat orisinil dan bersih, interior full original dan bersih, kong istimewa.",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/uf9fa0fqdp711-ID/image;s=780x0;q=60"
+    },
+    {
+      "id": 8,
+      "name": "Daihatsu Terios (2018)",
+      "price": "Rp 207.500.000",
+      "description": "Dijual daihatsu terios R deluxe thn 2018, kondisi mesin prima, kaki kaki bagus, interior dan eksterior original dan masih mulus, tangan pertama dan rawatan bengkel resmi",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/02x2dq5x0k5m1-ID/image;s=780x0;q=60"
+    },
+    {
+      "id": 9,
+      "name": "Toyota Agya (2018)",
+      "price": "Rp 108.000.000",
+      "description": "irip mobil baru, super antik, service record ASTRA resmi, masih garansi ASTRA 3 tahun, full orisinil, double airbag, kondisi seperti baruu semuanyaa. mantap pokoknya",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/cgyelf819zr91-ID/image;s=780x0;q=60"
+    }
+  ],
+  "harga": [
+    [
+      "Toyota Harrier (2007)",
+      159000000
+    ],
+    [
+      "Nissan Grand Livina (2015)",
+      100000000
+    ],
+    [
+      "Toyota Rush (2019)",
+      228000000
+    ],
+    [
+      "Toyota Voxy (2018)",
+      385000000
+    ],
+    [
+      "Honda Cr-Z (2014)",
+      328000000
+    ],
+    [
+      "Daihatsu Sirion (2014)",
+      84000000
+    ],
+    [
+      "Honda Jazz (2011)",
+      109000000
+    ],
+    [
+      "Daihatsu Terios (2018)",
+      207500000
+    ],
+    [
+      "Toyota Agya (2018)",
+      108000000
+    ]
+  ]
+}
